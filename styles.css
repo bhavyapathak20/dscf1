@@ -8,6 +8,12 @@
 html{
   scroll-behavior: smooth;
 }
+.foot_logo{
+  color: white;
+  height: 40px;
+  background-color: white;
+  border-radius: 30px;
+}
 .header {
   position: relative;
   text-align: center;
@@ -539,6 +545,9 @@ nav ul li ul li a {
   text-align: center;
   line-height: 38px;
   border-radius: 50%;
+}
+.instagram{
+  height: 90px;
 }
 .facebook-bg{
   background: #3B5998;
