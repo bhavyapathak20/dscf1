@@ -592,5 +592,11 @@ nav ul li ul li a {
   margin-top: 2rem;
 }
 
+@media (max-width:600px){
+  .card{
+    position: relative;
+    left: 7rem;
+  }
+}
 
 
