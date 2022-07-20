@@ -594,7 +594,7 @@ nav ul li ul li a {
 
 @media (max-width:600px){
   .card{
-    position: relative;
+    position: absolute;
     left: 7rem;
   }
 }
