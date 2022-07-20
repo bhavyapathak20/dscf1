@@ -22,8 +22,8 @@ html{
 }
 
 .nav-list{
-  position: absolute;
-  right: 70px;
+  width: 100%;
+  right: 0;
 }
 
 .back{
@@ -369,8 +369,8 @@ nav ul li {
 }
 nav ul li a {
     display: block;
-    padding: 0 20px;
-    line-height: 55px;
+    padding: 20px;
+    line-height: 20px;
     color:#ff5733;
     text-decoration: none;
 }
